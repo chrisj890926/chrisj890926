@@ -62,4 +62,4 @@
 ## 🌐 Let's Connect  
 - **Yourator**: [唐嘉宏 (Chris Tang)](https://www.yourator.co/r/2cd26f87-8d47-4eb7-88de-c55f3725e4a6)  
 - **Portfolio**: [GitHub Profile](https://github.com/chrisj890926)  
-- **Contact**: a0936904171@email.com  
+- **Contact**: a0936904171@gmail.com  
